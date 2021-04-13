@@ -30,4 +30,4 @@ async def on_message(message):
 
     print(f'{client.user} has connected to Discord!')
 
-client.run("ODIwNTE2MTQ4NDYxODMwMjE2.YE2TNg.JRWLyMBgsILcpHOe0ZA5xvROS3Q")
+client.run("Your Discord API token code")
