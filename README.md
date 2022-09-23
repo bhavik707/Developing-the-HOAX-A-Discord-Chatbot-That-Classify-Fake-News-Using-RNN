@@ -16,7 +16,7 @@ In order to use this project, Please follow below step to get Discord Bot API:
 5. Got to the OAuth2 tab and authenticate your API to add your bot to your Discord server.
 6. Download both python files(Discord.py & MMmodel.py) and dataset in same directory.
 7. Install all the packages required for the code provided in requirements.txt and assign roles to bot.
-8. Go tp discord.py and at the bottom of code.client.run(), put your Bot's token code that copied from step 4.
+8. Go t0 discord.py and at the bottom of code.client.run(), put your Bot's token code that copied from step 4.
 9. Now this project is ready to run.
 
 ### 2. To run the project
